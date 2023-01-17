@@ -3,5 +3,7 @@ layout: post
 title: Welcome to my first blog!
 ---
 
-In the about tab you can see my CV
+This blog is the first task of New Trends in Information Technology subject.
+
+In the about tab you can se my CV:
 
