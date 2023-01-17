@@ -1,7 +1,7 @@
 ---
 layout: page
 
-permalink: /About/
+permalink: /about/
 ---
 
 
