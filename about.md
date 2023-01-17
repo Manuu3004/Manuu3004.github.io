@@ -1,7 +1,7 @@
 ---
 layout: page
 
-permalink: /CV/
+permalink: /About/
 ---
 
 
