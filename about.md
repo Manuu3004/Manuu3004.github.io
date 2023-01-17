@@ -4,8 +4,6 @@ layout: page
 permalink: /about/
 ---
 
-
-
 ### Education
 
 - Degree in Industrial Engineering, Polytechnic University of Madrid
