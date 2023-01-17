@@ -3,8 +3,8 @@ layout: page
 
 permalink: /about/
 ---
-title: CV
----
+CV
+
 ### Education
 
 - Degree in Industrial Engineering, Polytechnic University of Madrid
